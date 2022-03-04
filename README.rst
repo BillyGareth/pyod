@@ -1,3 +1,4 @@
+<img src="https://www.researchgate.net/profile/Ayad-Jabbar-3/publication/350530198/figure/fig2/AS:1007505744343041@1617219496298/Classification-based-outlier-detection-approach-12.png" width="300" height="200" /> <img 
 Python Outlier Detection (PyOD)
 ===============================
 
