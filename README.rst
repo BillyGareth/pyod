@@ -1,13 +1,13 @@
-.. image:: https://miro.medium.com/max/960/1*VR77mG5rYqXgZ514A66QeQ.png
-   :target: https://miro.medium.com/max/960/1*VR77mG5rYqXgZ514A66QeQ.png
-   :alt: Outlier Detection
-
 .. image:: https://www.researchgate.net/profile/Ayad-Jabbar-3/publication/350530198/figure/fig2/AS:1007505744343041@1617219496298/Classification-based-outlier-detection-approach-12.png
    :target: https://www.researchgate.net/profile/Ayad-Jabbar-3/publication/350530198/figure/fig2/AS:1007505744343041@1617219496298/Classification-based-outlier-detection-approach-12.png
    :alt: Outlier Detection and Overview
 
 Python Outlier Detection (PyOD)
 ===============================
+
+.. image:: https://miro.medium.com/max/960/1*VR77mG5rYqXgZ514A66QeQ.png
+   :target: https://miro.medium.com/max/960/1*VR77mG5rYqXgZ514A66QeQ.png
+   :alt: Outlier Detection
 
 **Deployment & Documentation & Stats & License**
 
