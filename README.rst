@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/960/1*VR77mG5rYqXgZ514A66QeQ.png" width="300" height="200" />
+<img src="https://media.tenor.com/images/bbe2e72ce059f349e925f1bf95057eea/tenor.gif" width="300" height="200" />
 
 
 Python Outlier Detection (PyOD)
